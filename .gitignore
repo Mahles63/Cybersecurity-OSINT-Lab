@@ -1,0 +1,28 @@
+# Virtual Machines
+*.vdi
+*.vmdk
+*.ova
+
+# Archives
+*.zip
+*.7z
+*.rar
+
+# Credentials
+password.txt
+*.key
+*.pem
+
+# Python
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# Linux
+*.swp
+*.bak
+
+# Logs
+*.log
