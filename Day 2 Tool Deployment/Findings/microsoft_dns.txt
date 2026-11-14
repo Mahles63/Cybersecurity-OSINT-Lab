@@ -1,0 +1,20 @@
+
+; <<>> DiG 9.20.30-1-Debian <<>> microsoft.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 41342
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;microsoft.com.			IN	A
+
+;; ANSWER SECTION:
+microsoft.com.		197	IN	A	150.171.109.2
+
+;; Query time: 8 msec
+;; SERVER: 192.168.18.1#53(192.168.18.1) (UDP)
+;; WHEN: Thu Nov 05 10:15:59 EST 2026
+;; MSG SIZE  rcvd: 58
+
