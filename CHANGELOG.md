@@ -1,0 +1,62 @@
+Changelog
+All notable changes to this project will be documented in this file.
+
+Day 9 - Parrot Security Deployment & Validation
+Added
+Parrot Security OS virtual machine
+System validation procedures
+Tool verification process
+Workspace provisioning
+Network connectivity testing
+Validated
+Nmap
+WhatWeb
+Amass
+Nikto
+Day 8 - Vulnerability Assessment
+Added
+Nmap NSE vulnerability assessment
+Service enumeration
+HTTP enumeration
+Findings documentation
+Evidence collection
+Day 7 - Dradis Integration
+Added
+Dradis Community Edition deployment
+Project creation
+Evidence tracking
+Finding management workflow
+Assessment documentation workflow
+Day 6 - Web Recon Practical
+Added
+Scanme.nmap.org reconnaissance
+Host resolution testing
+DNS validation
+Basic Nmap scans
+Day 5 - Web Recon & Discovery
+Added
+Technology fingerprinting
+HTTP header analysis
+DNS investigation
+Web server identification
+Day 4 - Reporting & Documentation
+Added
+Reporting framework
+Evidence register
+Professional documentation structure
+Day 3 - OSINT
+Added
+WHOIS investigation
+DNS intelligence gathering
+Open-source intelligence collection
+Day 2 - Tool Deployment
+Added
+Nmap
+Amass
+WhatWeb
+Assessment workspace structure
+Day 1 - Lab Setup
+Added
+Kali Linux deployment
+Lab environment configuration
+Initial tooling validation
