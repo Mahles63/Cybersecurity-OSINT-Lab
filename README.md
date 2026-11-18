@@ -1,8 +1,10 @@
-_**Cybersecurity & OSINT Lab**_
+**Cybersecurity & OSINT Lab**
 
-A hands-on cybersecurity portfolio project documenting practical experience in Open Source Intelligence (OSINT), reconnaissance, vulnerability assessment, evidence management, reporting, and Dradis-based engagement workflows.
+A hands-on cybersecurity portfolio project documenting practical experience in Open Source Intelligence (OSINT), reconnaissance, vulnerability assessment, source validation, evidence management, reporting, and Dradis-based engagement workflows.
 
 This repository showcases a structured learning journey through cybersecurity methodologies using Kali Linux, Parrot Security OS, Oracle VirtualBox, Git, GitHub, and Dradis Community Edition.
+
+Unlike a traditional lab environment focused solely on tool execution, this project emphasizes analytical thinking, evidence-based findings, source validation, confidence assessment, and professional reporting practices aligned with modern OSINT and cybersecurity methodologies.
 
 Project Objectives
 Develop practical cybersecurity skills
@@ -10,120 +12,108 @@ Build repeatable OSINT workflows
 Learn reconnaissance methodologies
 Practice vulnerability assessment techniques
 Improve professional reporting abilities
-Gain experience with industry-recognized security tools
-Develop documentation and evidence-management skills
+Develop evidence management procedures
+Learn source validation methodologies
+Strengthen analytical reasoning and documentation practices
 Maintain a public cybersecurity portfolio
-Current Progress
+Methodology Framework
 
-✅ Day 1 - Lab Setup
+Each engagement follows a structured workflow:
 
-✅ Day 2 - Tool Deployment
+Plain Text
+Observation
+↓
+Source Collection
+↓
+Evidence Preservation
+↓
+Validation
+↓
+Assessment
+↓
+Confidence Rating
+↓
+Analytical Review
 
-✅ Day 3 - OSINT Fundamentals
+The objective is not simply to collect information, but to determine:
 
-✅ Day 4 - Reporting & Documentation
+What was observed
+What the source actually stated
+How the information was validated
+How reliable the source is
+How confident the analyst is in the conclusion
+What limitations affect the finding
+Documentation Enhancements
 
-✅ Day 5 - Web Reconnaissance
+The project incorporates structured analytical reporting practices throughout Days 3–9, including:
 
-✅ Day 6 - Web Recon Practical
+Source Validation
+Confidence Assessments
+Source Reliability Reviews
+Revised Findings Following Validation
+False Positive Tracking
+Analytical Notes
+Evidence Preservation
+Report Limitations
+Lessons Learned
+Analyst Reflections
 
-✅ Day 7 - Dradis Integration
+These additions promote transparency, reduce analytical bias, and strengthen the defensibility of findings.
 
-✅ Day 8 - Vulnerability Assessment
-
-✅ Day 9 - Parrot Security OS Deployment & Validation
-
-Technologies and Platforms
-Operating Systems
-Kali Linux
-Parrot Security OS
-Virtualization
-Oracle VirtualBox
-Documentation & Reporting
-Dradis Community Edition
-Markdown
-Git
-GitHub
-Security Tools
-Nmap
-Amass
-WhatWeb
-Nikto
-Assetfinder
-Host
-Dig
-Nslookup
-Curl
 Skills Demonstrated
 Open Source Intelligence (OSINT)
 WHOIS Investigation
 DNS Analysis
 Asset Discovery
 Subdomain Enumeration
+Source Validation
+Intelligence Correlation
 Reconnaissance
 Web Enumeration
 Technology Fingerprinting
 HTTP Header Analysis
 Infrastructure Discovery
+Network Mapping
 Vulnerability Assessment
 Service Enumeration
 Port Discovery
 NSE Script Execution
 Initial Risk Assessment
+Validation of Automated Findings
 Reporting & Documentation
 Evidence Collection
 Findings Documentation
-Executive Reporting
-Assessment Notes
+Technical Reporting
+Source Validation Reporting
+False Positive Analysis
+Confidence Assessment
 Dradis Workflow Integration
-Repository Structure
-
-Cybersecurity-OSINT-Lab
-
-│
-├── README.md
-
-├── CHANGELOG.md
-
-├── DISCLAIMER.md
-
-├── LICENSE
-
-├── SECURITY.md
-│
-├── Day 1 LabSetup
-
-├── Day 2 Tool Deployment
-
-├── Day 3 OSINT
-
-├── Day 4 Reporting & Documentation
-
-├── Day 5 WebRecon & Discovery
-
-├── Day6-Web-Recon
-
-├── Day 7 Dradis Integration
-
-├── Day8-Vulnerability-Assessment
-
-└── Day9-Parrot-Security
-
+Professional Practices
+Analytical Thinking
+Evidence-Based Decision Making
+Documentation Standards
+Investigation Methodology
+Git Version Control
+Security Reporting
 Learning Outcomes
+
 This lab focuses on building practical experience in:
 
-Cybersecurity Fundamentals
-Network Reconnaissance
 Open Source Intelligence Collection
-Web Enumeration
+Reconnaissance Methodologies
 Vulnerability Assessment
-Security Documentation
+Source Validation
 Evidence Management
+Analytical Reporting
+Security Documentation
 Dradis Project Management
-Git Version Control
-Technical Reporting
+Git and GitHub Workflows
+Professional Cybersecurity Practices
 Professional Development
-The purpose of this repository is to maintain an auditable record of hands-on cybersecurity activities, supporting continuous learning and demonstrating practical skills to recruiters, hiring managers, and the cybersecurity community.
+
+The purpose of this repository is to maintain an auditable record of hands-on cybersecurity activities while demonstrating technical, investigative, and analytical skills to recruiters, hiring managers, fellow practitioners, and the broader cybersecurity community.
+
+Particular emphasis is placed on documenting not only what was found, but also how findings were validated, how confidence was established, and how conclusions were reached.
 
 Disclaimer
 All activities documented within this repository were conducted in controlled lab environments or against publicly authorized targets intended for educational and research purposes.
