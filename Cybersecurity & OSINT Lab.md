@@ -1,10 +1,13 @@
 Cybersecurity & OSINT Lab
+
 Overview
+
 This repository documents a nine-day Cybersecurity and Open Source Intelligence (OSINT) laboratory focused on intelligence collection, reconnaissance, validation, analysis, reporting, and documentation. The project was conducted using industry-standard security platforms, assessment tools, and reporting methodologies to develop practical analytical and investigative skills.
 
 The objective of this lab is not only to collect information but to transform raw data into validated intelligence through evidence-based analysis, source verification, confidence assessment, and professional reporting.
 
 Project Objectives
+
 Develop practical cybersecurity investigation skills.
 Build repeatable OSINT research methodologies.
 Conduct reconnaissance and information gathering activities.
